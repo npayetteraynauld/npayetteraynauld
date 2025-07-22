@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/bc326d1e-c76f-4179-8c4e-adcbdd75af2f/thumbnail" >
+</p>
+
 <!--
 **npayetteraynauld/npayetteraynauld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
