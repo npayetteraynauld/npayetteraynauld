@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi everyone, I'm Nathanael Payette-Raynauld
+
+ - :school: Self-taught Go/Python backend developer
+ - :white_check_mark: Completed the Back-End developer Bootdev curriculum
+ - :key: Currently working on a password-manager RESTful API in python using FastAPI
 
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/bc326d1e-c76f-4179-8c4e-adcbdd75af2f/thumbnail" >
